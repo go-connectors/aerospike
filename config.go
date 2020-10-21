@@ -1,4 +1,4 @@
-package client
+package aerospike
 
 import (
 	"errors"
